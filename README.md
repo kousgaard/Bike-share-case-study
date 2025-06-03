@@ -1,1 +1,1 @@
-# Bike-share-case-study
+Case Study: Cyclistic bike-share
